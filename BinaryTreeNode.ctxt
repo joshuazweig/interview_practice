@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BinaryTreeNode()
+comment1.params=x\ newLeft\ newRight
+comment1.target=BinaryTreeNode(int,\ BinaryTreeNode,\ BinaryTreeNode)
+comment2.params=x
+comment2.target=BinaryTreeNode(int)
+comment3.params=
+comment3.target=BinaryTreeNode\ getLeft()
+comment4.params=
+comment4.target=BinaryTreeNode\ getRight()
+comment5.params=
+comment5.target=int\ getData()
+comment6.params=x
+comment6.target=void\ setData(int)
+comment7.params=newLeft
+comment7.target=void\ setLeft(BinaryTreeNode)
+comment8.params=newRight
+comment8.target=void\ setRight(BinaryTreeNode)
+numComments=9
